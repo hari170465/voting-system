@@ -1,2 +1,24 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Backend build
+backend/dist/
+
+# Next.js
+frontend/.next/
+frontend/out/
+
+# Prisma (sqlite, if any)
+backend/prisma/*.db
+
+# OS
+.DS_Store
+Thumbs.db
