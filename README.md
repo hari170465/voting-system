@@ -24,12 +24,13 @@ A complete voting web application with:
 ---
 
 ## 📁 Project Structure
+```bash
 voting-system/
-├── backend/ # Express + Prisma + Auth + API
-├── frontend/ # Next.js UI (login, vote, results, admin, chat)
+├── backend/ 
+├── frontend/
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
