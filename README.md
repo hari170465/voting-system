@@ -1,4 +1,7 @@
 # 🗳 Voting System – Full-Stack App
+<p align="center">
+  <img src="assets/page.png" alt="Voting System Banner" width="600">
+</p>
 
 A complete voting web application with:
 
